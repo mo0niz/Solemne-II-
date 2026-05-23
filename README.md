@@ -60,9 +60,13 @@ Sus composiciones utilizan estructuras geométricas repetidas y deformadas para 
 *Bridget Riley*:
 Sus investigaciones sobre percepción visual, ritmo y movimiento aparente inspiraron la búsqueda de efectos dinámicos producidos exclusivamente mediante relaciones geométricas.
 
-**Imagen de referencia**
+**Imagenes de referencia**
 
 ![Op Art](solemne%20PC/op%20art.webp)
+
+![Referencia 1](diagrama%20de%20flujo%20y%20mas%20referentes/ref%201.jpg)
+
+![Referencia 2](diagrama%20de%20flujo%20y%20mas%20referentes/ref%202.jpg)
 
 **Decisiones de diseño**
 
@@ -191,3 +195,16 @@ El sistema genera:
 -Composición visual dinámica.
 
 -Respuesta inmediata a la interacción.
+
+**Capturas de Proceso**
+![Primera](solemne%20PC/primera.jpg)
+
+![Segunda](solemne%20PC/segunda.jpg)
+
+![Tercera](solemne%20PC/tercera.jpg)
+
+![Cuarta](solemne%20PC/cuarta.jpg)
+
+**Diagrama de flujo**
+![Diagrama](diagrama%20de%20flujo%20y%20mas%20referentes/diagrama.jpg)
+
