@@ -208,3 +208,5 @@ El sistema genera:
 **Diagrama de flujo**
 ![Diagrama](diagrama%20de%20flujo%20y%20mas%20referentes/diagrama.jpg)
 
+link: https://editor.p5js.org/isidora.munoz9/full/_tM8ctBSX
+https://editor.p5js.org/isidora.munoz9/sketches/_tM8ctBSX
